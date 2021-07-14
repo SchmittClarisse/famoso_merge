@@ -15,3 +15,5 @@
 <h3>3. Rendu attendu</h3>
 
 <p>Un fichier JS que l'on peut exécuter en lui donnant un fichier en paramètre qui contient une liste de nombres. Il affichera dans la console le nom de l'algorithme utilisé, suivi du nombre de comparaisons effectuées puis du tableau final en sortie de ton algorithme !</p>
+
+<p>Dans le temrinal : node merge.js list.txt</p>
